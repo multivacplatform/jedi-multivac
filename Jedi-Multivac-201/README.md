@@ -7,3 +7,4 @@ Multivac Homepage: https://multivac.iscpif.fr
 
 Training page: https://iscpif.fr/upcomingevents/jedi-multivac-2/
 
+Presentation (PDF): https://nextcloud.iscpif.fr/index.php/s/M2xaE2J4RE2E3dc
