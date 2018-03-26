@@ -1,5 +1,7 @@
 # JEDI-Multivac
-Multivac trainings: 201
+### Multivac trainings: 201
+
+![JEDI-Multivac 201](https://iscpif.fr/wp-content/uploads/2018/01/jedi-multivac-logo.png "JEDI-Multivac 201")
 
 Date: 15 March @ 2:00 pm - 6:00 pm
 
