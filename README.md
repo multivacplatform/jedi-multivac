@@ -1,4 +1,4 @@
-# JEDI-Multivac
+# Multivac-JEDI
 Multivac training sessions:
 
 * Presentations
