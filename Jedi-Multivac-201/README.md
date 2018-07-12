@@ -13,3 +13,6 @@ https://iscpif.fr/upcomingevents/jedi-multivac-2/
 
 #### Presentation (PDF): 
 https://nextcloud.iscpif.fr/index.php/s/M2xaE2J4RE2E3dc
+
+#### Notebooks (Apache Zeppelin): 
+https://github.com/multivacplatform/multivac-jedi/tree/master/Jedi-Multivac-201/notebooks
