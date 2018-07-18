@@ -1,4 +1,5 @@
-# Multivac-JEDI
+# Multivac-JEDI [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/multivacplatform/multivac-jedi/blob/master/LICENSE)
+
 Multivac training sessions:
 
 * Presentations
